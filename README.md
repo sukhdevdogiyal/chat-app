@@ -10,14 +10,14 @@ This is a simple real-time chat application built with **Node.js**, **Express**,
 - Simple UI with live updates
 
 ## 📁 Project Structure
-
+```bash
 chat-app/
 ├── client/
 │ └── index.html # Frontend
 ├── server/
 │ └── index.js # Backend with Express + Socket.IO
 ├── README.md # Project documentation
-
+```
 
 ## 🚀 How to Run
 
@@ -25,17 +25,20 @@ chat-app/
 ```bash
 cd server
 npm install
+```
 
 
-## Start backend server:
+### 2. Start backend server:
+```bash
 node index.js
+```
 
-
-## Open frontend:
+### 3. Open frontend:
+```bash
 start ../client/index.html
+```
 
-
-📦 Tech Stack
-Backend: Node.js, Express, Socket.IO
-Frontend: HTML, CSS, JavaScript
-Communication: WebSocket (via Socket.IO)
+## 📦 Tech Stack
+### 1. Backend : Node.js, Express, Socket.IO
+### 2. Frontend : HTML, CSS, JavaScript
+### 3. Communication : WebSocket (via Socket.IO)

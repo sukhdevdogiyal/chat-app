@@ -5,7 +5,8 @@
 - INTERN ID : CT08DL212
 - DOMAIN : FULL STACK WEB DEVELOPMENT
 - BATCH DURATION : April 30th,2025 TO June 30th,2025
-- MENTOR NAME : Vaishali Shrivastava
+- MENTOR NAME : Neela Santhosh
+
 This is a simple real-time chat application built with **Node.js**, **Express**, and **Socket.IO** for the backend, and basic **HTML/JavaScript** for the frontend.
 
 ## 🔧 Features
@@ -19,10 +20,14 @@ This is a simple real-time chat application built with **Node.js**, **Express**,
 ```bash
 chat-app/
 ├── client/
-│ └── index.html # Frontend
+│ └── index.html  # Frontend
 ├── server/
-│ └── index.js # Backend with Express + Socket.IO
-├── README.md # Project documentation
+│ └── index.js    # Backend with Express + Socket.IO
+├── screenshots/
+│   └── preview.png
+└── README.md     # Project documentation
+
+
 ```
 
 ## 🚀 How to Run
@@ -43,6 +48,9 @@ node index.js
 ```bash
 start ../client/index.html
 ```
+## 📸 Screenshot
+Below is a preview of the chat in action:
+![Chat App Screenshot](screenshots/preview.png)
 
 ## 📦 Tech Stack
 ### 1. Backend : Node.js, Express, Socket.IO

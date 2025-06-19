@@ -50,7 +50,7 @@ start ../client/index.html
 ```
 ## 📸 Screenshot
 Below is a preview of the chat in action:
-![Chat App Screenshot](screenshots/preview.png)
+![Chat App Screenshot](screenshorts/preview.png)
 
 ## 📦 Tech Stack
 ### 1. Backend : Node.js, Express, Socket.IO

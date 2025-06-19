@@ -57,3 +57,8 @@ Below is a preview of the chat in action:
 ### 2. Frontend : HTML, CSS, JavaScript
 ### 3. Communication : WebSocket (via Socket.IO)
 
+
+## 📝 License  
+Free to use and modify for learning purposes.  
+Created for internship practice 🚀  
+
